@@ -1,1 +1,1 @@
-Diabetes Prediction Model
+Nodal Analysis
